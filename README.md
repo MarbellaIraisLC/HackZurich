@@ -1,9 +1,9 @@
 # HackZurich!
 
-[2021-06-25__3_ (2)](https://user-images.githubusercontent.com/78627173/134763619-c4ca61c5-4c95-4054-b2bc-371315f24562.png)
 
 
 
+![System Architecture of protocol](https://user-images.githubusercontent.com/78627173/134763638-e85dfe3c-c2d4-4724-8e24-69e249b41023.png)
 
 ![ss2](https://user-images.githubusercontent.com/78627173/134763572-85ba7396-2d7d-476c-b7a9-0a0c3070856a.jpg)
 
