@@ -1,7 +1,6 @@
 # HackZurich!
 
-![logo-hh](https://user-images.githubusercontent.com/78627173/134795510-d828ecbe-5f72-457d-a436-775bdcfd0e0c.png)
-
+![llll](https://user-images.githubusercontent.com/78627173/134795558-a0c56875-a38b-4970-9a1c-e8880f7797a2.png)
 
 
 ![System Architecture of protocol](https://user-images.githubusercontent.com/78627173/134763638-e85dfe3c-c2d4-4724-8e24-69e249b41023.png)
