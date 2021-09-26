@@ -1,5 +1,6 @@
 # HackZurich!
 
+![logo-hh](https://user-images.githubusercontent.com/78627173/134795510-d828ecbe-5f72-457d-a436-775bdcfd0e0c.png)
 
 
 
